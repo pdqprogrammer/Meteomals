@@ -1,0 +1,55 @@
+Setup:
+Players can have as many Meteomal and Reaction Cards on them as possible
+Players must have the following dice: d4, d6, d8
+Recommended Components: d10 and tokens
+
+Players can only have one Meteomal and one Reaction card down at a time
+
+Game Goal:
+Reach Level 10 then defeat an opponent's Meteomal
+
+Weakness Chart:
+sun > snow
+snow > cloud
+cloud > sun
+
+Card Types:
+Meteomal Card - creature card that features element type on top left corner and stats on bottom right corner
+Reaction Card - specific action cards that can be activated in the right situations
+
+First Turn:
+Players place face down one Meteomal and can place face down one Reaction Card
+
+Turn Steps (Performed Every Turn):
+Both players roll a d6
+The player with the higher number attacks first
+If the same number is rolled then roll until one player gets a higher roll
+
+Players may place face down a Reaction card if they do not have any down
+Any face down Meteomal Cards are revealed
+If a player has no Meteomal on the field they can place one face up
+(Players are allowed to use the same Meteomals over and over again if they choose)
+
+Attacking player rolls to attack based on Weakness typing
+If Stronger roll a d8
+If Weaker roll a d4
+If Same roll a d6
+
+Defending player rolls a d6 to Evade
+If a 6 is rolled the attack is evaded
+
+The attacking player adds the roll plus the Meteomal attack together
+Then the attacking player subtracts the defending Meteomal's defense from the sum
+That number is removed from the Meteomal's remaining health
+Attack damage cannot be reduced below 0
+
+If a Meteomal's health drops to 0 or less it is defeated and removed from the field
+The turn ends when a Meteomal is defeated
+
+If the player that went first this turn does not defeat the defending Meteomal then the defending player takes their turn attacking
+
+During turns if the situation is right a Reaction card can be activated
+ex. Player misses an Evade roll and has a card to allow a re-roll they can play it
+
+Once both players have taken their chance to attack the turn resets
+Players continue this flow until one player wins
